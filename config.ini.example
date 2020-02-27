@@ -1,0 +1,6 @@
+[default]
+domain = data.gouv.fr
+dataset_id = 5448d3e0c751df01f85d0572
+
+[secrets]
+apikey = xxx

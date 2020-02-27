@@ -1,0 +1,4 @@
+cchardet
+agate
+requests
+goodtables
